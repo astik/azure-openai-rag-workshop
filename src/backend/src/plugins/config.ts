@@ -1,4 +1,4 @@
-import process from 'node:process';
+zimport process from 'node:process';
 import path from 'node:path';
 import * as dotenv from 'dotenv';
 import fp from 'fastify-plugin';
